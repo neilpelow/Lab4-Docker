@@ -1,1 +1,8 @@
+//Requirements text file
+
 flask
+
+Docker
+
+GIT 
+
